@@ -1,5 +1,5 @@
 import { SchemaTypes, model, Schema } from 'mongoose'
-import mongoosePaginate from 'mongose-paginate'
+import mongoosePaginate from 'mongoose-paginate'
 import bcrypt from 'bcryptjs'
 
  const userSchema = new Schema(
