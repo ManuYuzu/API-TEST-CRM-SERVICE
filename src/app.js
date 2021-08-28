@@ -3,7 +3,8 @@ import morgan from 'morgan'
 import cors from 'cors'
 import helmet from 'helmet'
 
-// Router Imports
+// Routes Imports
+import userRoutes from './routes/user.routes'
 
 // Create APP
 const app = express()
@@ -21,6 +22,6 @@ app
 
 // Routes
 app
-  .use('/api')
+  .use('/api/users', userRoutes)
 
 export default app
