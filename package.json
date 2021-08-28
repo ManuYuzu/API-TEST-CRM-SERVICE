@@ -1,0 +1,30 @@
+{
+  "name": "API-TEST-CRM-SERVICE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuYuzu/API-TEST-CRM-SERVICE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuYuzu/API-TEST-CRM-SERVICE/issues"
+  },
+  "homepage": "https://github.com/ManuYuzu/API-TEST-CRM-SERVICE#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "helmet": "^4.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.2",
+    "morgan": "^1.10.0"
+  }
+}
