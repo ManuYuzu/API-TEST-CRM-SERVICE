@@ -1,4 +1,4 @@
-import { SchemaTypes, model, Schema } from 'mongoose'
+import { model, Schema } from 'mongoose'
 import mongoosePaginate from 'mongoose-paginate'
 import bcrypt from 'bcryptjs'
 

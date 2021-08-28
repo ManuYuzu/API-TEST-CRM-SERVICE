@@ -1,6 +1,7 @@
 import User from '../models/user.model'
 
 export const createUser = async (req, res) => {
+  console.log('-'.repeat(40))
   try {
     const { email, password } = req.body
 
