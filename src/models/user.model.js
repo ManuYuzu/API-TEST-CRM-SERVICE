@@ -2,7 +2,7 @@ import { model, Schema } from 'mongoose'
 import mongoosePaginate from 'mongoose-paginate'
 import bcrypt from 'bcryptjs'
 
- const userSchema = new Schema(
+const userSchema = new Schema(
   {
     email: {
       type: String,

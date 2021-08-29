@@ -8,13 +8,14 @@ import authRoutes from './routes/auth.routes'
 import userRoutes from './routes/user.routes'
 import customerRoutes from './routes/customer.routes'
 
-// Create APP
+// Setup
+import { createAdmin } from './libs/initSetup'
+
 const app = express()
+createAdmin()
 
 // Settings
-
 app.set('port', process.env.PORT || 3000)
-
 // Middlewares
 app
   .use(cors())
