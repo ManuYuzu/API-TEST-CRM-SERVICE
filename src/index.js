@@ -4,6 +4,6 @@ import './database'
 app.listen(app.get('port'))
 
 console.info('>'.repeat(40))
-console.info('ᓚᘏᗢ "API-TEST-CRM-SERVICE" IS ALIVE AT')
-console.info(`PORT: ${app.get('port')}`)
+console.info('       ᓚᘏᗢ "API-TEST-CRM-SERVICE"')
+console.info(`       IS ALIVE AT PORT: ${app.get('port')}`)
 console.info('>'.repeat(40) + '\n')

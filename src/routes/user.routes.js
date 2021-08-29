@@ -1,9 +1,9 @@
 import { Router } from 'express'
+import { check } from 'express-validator'
 import * as userController from '../controllers/user.controller'
-import { authJwt, validate } from '../middlewares'
+import { authJwt } from '../middlewares'
 
 const router = Router()
-const { check } = require('express-validator')
 
 router.post(
   '/',

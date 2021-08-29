@@ -1,11 +1,9 @@
 import { Router } from 'express'
-
-import * as authController from '../controllers/auth.controller'
+import { check } from 'express-validator'
 import { validate } from '../middlewares'
+import * as authController from '../controllers/auth.controller'
 
 const router = Router()
-
-const { check } = require('express-validator')
 
 router.post(
   '/login',
