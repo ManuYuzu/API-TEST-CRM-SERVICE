@@ -16,7 +16,7 @@ createAdmin()
 
 // Settings
 app.set('port', process.env.PORT || 3000)
-// Middlewares
+
 app
   .use(cors())
   .use(helmet())

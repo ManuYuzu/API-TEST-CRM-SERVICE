@@ -5,6 +5,8 @@ import { authJwt } from '../middlewares'
 
 const router = Router()
 
+/* CRUD Methods */
+
 router.post(
   '/',
   check('name', 'Name field is empty').not().isEmpty(),

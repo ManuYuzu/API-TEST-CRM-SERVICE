@@ -10,7 +10,6 @@ export const verifyToken = async (req, res, next) => {
   try {
     const decoded = jwt.verify(token, config.SECRET)
     req.userId = decoded.id
-
     const user = await User.findById(req.userId)
     if (!user) return res.status(401).json({ msg: 'User not found' })
     res.locals.user = user
@@ -24,13 +23,11 @@ export const verifyToken = async (req, res, next) => {
 export const isAdmin = async (req, res, next) => {
   try {
     const { role } = res.locals.user
-
     if (role === 'admin') {
       next()
       return
     }
-
-    return res.status(403).json({ message: 'Admin permits needed' })
+    return res.status(403).json({ msg: 'Admin permits needed' })
   } catch (error) {
     return res.status(500).send({ msg: error })
   }

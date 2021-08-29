@@ -5,6 +5,8 @@ import * as authController from '../controllers/auth.controller'
 
 const router = Router()
 
+/* Methods */
+
 router.post(
   '/login',
   check('email', 'Email not valid').isEmail(),

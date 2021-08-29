@@ -5,6 +5,8 @@ import { authJwt } from '../middlewares'
 
 const router = Router()
 
+/* CRUD Methods */
+
 router.post(
   '/',
   check('email', 'Email not valid').isEmail(),
