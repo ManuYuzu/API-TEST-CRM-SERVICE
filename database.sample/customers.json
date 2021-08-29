@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "612bb53852f38c696192798f"
+  },
+  "name": "Update 00",
+  "surname": "Test",
+  "photo": "https://miro.medium.com/max/720/1*W35QUSvGpcLuxPo3SRTH4w.png",
+  "creator": {
+    "$oid": "612ba26d786a22bc3819fdbe"
+  },
+  "createdAt": {
+    "$date": "2021-08-29T16:26:32.294Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-29T16:32:00.630Z"
+  },
+  "updater": {
+    "$oid": "612ba26d786a22bc3819fdbe"
+  }
+},{
+  "_id": {
+    "$oid": "612bb53d52f38c6961927992"
+  },
+  "name": "Customer02",
+  "surname": "Test",
+  "photo": "https://miro.medium.com/max/720/1*W35QUSvGpcLuxPo3SRTH4w.png",
+  "creator": {
+    "$oid": "612ba26d786a22bc3819fdbe"
+  },
+  "createdAt": {
+    "$date": "2021-08-29T16:26:37.040Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-29T16:26:37.040Z"
+  }
+}]

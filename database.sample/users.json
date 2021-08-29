@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "612b4bc3244c62753824b47e"
+  },
+  "email": "admin@test.es",
+  "password": "$2a$10$VhLqljVckK9ggRm/5ofS7OhT/jzTgQ9g9mBviXCgmsMR5JtJOECXC",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2021-08-29T08:56:35.777Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-29T08:56:35.777Z"
+  }
+},{
+  "_id": {
+    "$oid": "612ba26d786a22bc3819fdbe"
+  },
+  "email": "user01@test.es",
+  "password": "$2a$10$R53pLHZh2TfJYCx3mMqe3e88.T5g33Jxit8wrH35v13jXnKwwrkPG",
+  "role": "user",
+  "createdAt": {
+    "$date": "2021-08-29T15:06:21.288Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-29T15:06:21.288Z"
+  }
+},{
+  "_id": {
+    "$oid": "612ba270786a22bc3819fdc1"
+  },
+  "email": "user02@test.es",
+  "password": "$2a$10$KqmLdQiV1YhGeoyrmx0ef.NV.2lkfOvnw5Bt5XmUb2tp5ZMmdDRnu",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2021-08-29T15:06:24.932Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-29T15:11:58.218Z"
+  },
+  "name": "Update 00"
+}]
