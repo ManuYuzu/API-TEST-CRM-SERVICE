@@ -3,8 +3,9 @@ API - CRM Service
 
 <br />
 <!-- INDEX -->
+
+### Index
 <ol>
-  <lh>INDEX</lh>
   <li><a href="#about">About</a></li>
   <li><a href="#set-up"></a>Set up</a></li>
   <li><a href="#usage"></a>Usage</a></li>
@@ -145,10 +146,10 @@ npm run start
 <p>In case you want to contribute in this project you have to follow the next steps:</p>
 
 1.- Fork the project on your GitHub account
-2.- Create a new Feature Branch [`git checkout -b feature/NewFeature`]
-3.- Add your work to the branch [`git add feature/NewFeature or . (be careful, this will add every change you made)`]
-4.- Commit the changes [`git commit -m 'Short description of the commit'`]
-5.- Do a push into the branch [`git push origin feature/NewFeature`]
+2.- Create a new Feature Branch `git checkout -b feature/NewFeature`
+3.- Add your work to the branch `git add feature/NewFeature or . (be careful, this will add every change you made)`
+4.- Commit the changes `git commit -m 'Short description of the commit'`
+5.- Do a push into the branch `git push origin feature/NewFeature`
 6.- Go to GitHub and open a Pull Requests
 
 <br />
