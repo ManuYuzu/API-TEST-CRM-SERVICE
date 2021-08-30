@@ -3,7 +3,8 @@
 
 <!-- INDEX -->
 <ol>
-  <lh>Index</lh>
+  <lh>INDEX</lh>
+  </br>
   <li>About</li>
   <li>Set up</li>
   <li>Usage</li>
@@ -31,33 +32,38 @@
 
 ## Requisites
 
-· [NodeJS] (https://nodejs.org/es/)
+· [NodeJS](https://nodejs.org/es/)
 <p>First, you'll need to install Node</p>
+
 ```sh
 sudo apt install nodejs
 ```
 <p>Make sure you have Node installed and which version with:</p>
+
 ```
 node --version
 ```
 
-· [NPM] (https://www.npmjs.com/)
+· [NPM](https://www.npmjs.com/)
+
 ```sh
 npm install npm@latest -g
 ```
 
-· [Nodemon] (https://www.npmjs.com/package/nodemon)
+· [Nodemon](https://www.npmjs.com/package/nodemon)
 <p>Is not a must, but I recomend it</p>
 Global:
+
 ```sh
 npm install -g nodemon
 ```
 Dependency:
+
 ```sh
 npm install --save-dev nodemon
 ```
 
-· [MongoDB] (https://www.mongodb.com/)
+· [MongoDB](https://www.mongodb.com/)
 <p>
   With Mongo you can work from Web Navigator or download the app.
   To connect it, you need to erase '.sample' from '.env' filename.
