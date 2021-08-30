@@ -103,6 +103,7 @@ npm run start
 
 <br />
 <!-- USAGE -->
+
 ## Usage
 
 <p>
@@ -138,6 +139,7 @@ npm run start
 
 <br />
 <!-- CONTRIBUTION REQUESTS -->
+
 ## Cotribution Requests
 
 <p>In case you want to contribute in this project you have to follow the next steps:</p>
@@ -151,16 +153,21 @@ npm run start
 
 <br />
 <!-- LICENSE -->
+
+## License
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <br />
 <!-- CONTACT -->
+
 ## Contact
 
 Manuel González - [GitHub](https://github.com/ManuYuzu) - [LinkedIn](https://www.linkedin.com/in/manuaglez/)
 
 <br />
 <!-- OTHER TECHNOLOGIES -->
+
 ## Build 
 
 - [JavaScript](https://www.javascript.com/)
