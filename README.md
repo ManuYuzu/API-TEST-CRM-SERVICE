@@ -118,7 +118,7 @@ npm run start
 | :----: | :--------: | :---: | :--: | :-----------: | :--------: | :----: |
 | POST | /api/login | No | No | Email, password | Login | Token |
 
-### Users Endpoints
+### User Endpoints
 
 | METHOD | ENDPOINT | TOKEN | ROLE | PARAMS | CONTROLLER | RETURN |
 | :----: | :-------------------------: | :---: | :---: | :-------------: | :------------: | :--------------------: |
@@ -128,7 +128,7 @@ npm run start
 | PUT | /api/users /:userId | Yes | Admin | ObjectId: ‘userId’ | updateUser | Object of the user updated |
 | DELETE | /api/users /:userId | Yes | Admin | ObjectId: ‘userId’ | deleteUser | Message to confirm the action |
 
-### Customers Endpoints
+### Customer Endpoints
 
 | METHOD | ENDPOINT | TOKEN | ROLE | BODY / PARAMS | CONTROLLER | RETURN |
 | :----: | :---------------------------------: | :---: | :--: | :-------------------: | :------------------: | :--------------------------: |
