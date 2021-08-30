@@ -1,6 +1,5 @@
 ## Agile API Test
-
-<h2 align="center"></h2>API - CRM Service</h2>
+API - CRM Service
 
 <br />
 <!-- INDEX -->
