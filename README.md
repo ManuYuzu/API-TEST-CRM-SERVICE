@@ -19,19 +19,18 @@
 <br />
 <!-- ABOUT -->
 ##About
-<p>
+
   This project is a test based on a CRM Service.
   You would be able to work with users with different permits and customers.
-</p>
+
 
 <br />
 <!-- SET UP -->
 ##Set Up
 
-<p>
   First, you will need several techs and tools to work with the API.
   In case you have doubts, you could find all the links to all the documentation of each.
-</p>
+
 
 ### Requisites
 
