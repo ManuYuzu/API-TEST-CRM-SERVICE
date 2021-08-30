@@ -70,7 +70,7 @@ npm install --save-dev nodemon
   The predetermined configuration works on local.
 </p>
 
-· [Postman] (https://www.postman.com/)
+· [Postman](https://www.postman.com/)
 <p>
   In case you work without Front, you will need Postman to check the lifecycle of the API. As Mongo, you can download it or work on Web Nav.
   You'll find the last Collection created for this API on this repo.
