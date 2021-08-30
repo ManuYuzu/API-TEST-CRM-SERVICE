@@ -141,7 +141,7 @@ npm run start
 <br />
 <!-- CONTRIBUTION REQUESTS -->
 
-## Cotribution Requests
+## Contribution Requests
 
 <p>In case you want to contribute in this project you have to follow the next steps:</p>
 
