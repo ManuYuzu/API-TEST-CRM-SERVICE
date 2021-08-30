@@ -5,7 +5,6 @@ API - CRM Service
 <!-- INDEX -->
 <ol>
   <lh>INDEX</lh>
-  </br>
   <li><a href="#about">About</a></li>
   <li><a href="#set-up"></a>Set up</a></li>
   <li><a href="#usage"></a>Usage</a></li>
@@ -17,6 +16,7 @@ API - CRM Service
 
 <br />
 <!-- ABOUT -->
+
 ## About
 
   This project is a test based on a CRM Service.
@@ -25,6 +25,7 @@ API - CRM Service
 
 <br />
 <!-- SET UP -->
+
 ## Set Up
 
   First, you will need several techs and tools to work with the API.
