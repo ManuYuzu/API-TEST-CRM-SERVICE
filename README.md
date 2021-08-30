@@ -7,7 +7,7 @@ API - CRM Service
 ### Index
 <ol>
   <li><a href="#about">About</a></li>
-  <li><a href="#set-up"></a>Set up</a></li>
+  <li><a href="#set up"></a>Set up</a></li>
   <li><a href="#usage"></a>Usage</a></li>
   <li><a href="#contribution-requests"></a>Cotribution Requests</a></li>
   <li><a href="#license"></a>License</a></li>
