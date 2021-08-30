@@ -1,7 +1,8 @@
-## Agile API Test
-<br />
+##Agile API Test
+
 <h2 align="center"></h2>API - CRM Service</h2>
 
+<br />
 <!-- INDEX -->
 <ol>
   <lh>INDEX</lh>
@@ -17,7 +18,7 @@
 
 <br />
 <!-- ABOUT -->
-## About
+##About
 <p>
   This project is a test based on a CRM Service.
   You would be able to work with users with different permits and customers.
@@ -25,7 +26,7 @@
 
 <br />
 <!-- SET UP -->
-## Set Up
+##Set Up
 
 <p>
   First, you will need several techs and tools to work with the API.
