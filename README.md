@@ -134,9 +134,9 @@ npm run start
 | :----: | :---------------------------------: | :---: | :--: | :-------------------: | :------------------: | :--------------------------: |
 | POST | /api/customers | Yes | No | customerSchema | createCustomer | Object of the customer created |
 | GET | /api/customers | Yes | No | Query in pages | getCustomers | Array of all customers |
-| GET | /api/customers /:customerId | Yes | No | ObjectId: ‘customerId | getCustomerById | Object of the specific customer |
-| PUT | /api/customers /:customerId | Yes | No | ObjectId: ‘customerId | updateCustomer | Object of the customer updated |
-| DELETE | /api/customers /:customerId | Yes | No | ObjectId: ‘customerId | deleteCustomer | Message to confirm the action |
+| GET | /api/customers /:customerId | Yes | No | ObjectId: ‘customerId’ | getCustomerById | Object of the specific customer |
+| PUT | /api/customers /:customerId | Yes | No | ObjectId: ‘customerId’ | updateCustomer | Object of the customer updated |
+| DELETE | /api/customers /:customerId | Yes | No | ObjectId: ‘customerId’ | deleteCustomer | Message to confirm the action |
 
 <br />
 <!-- CONTRIBUTION REQUESTS -->
