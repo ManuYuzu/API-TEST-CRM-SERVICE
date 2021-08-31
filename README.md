@@ -130,7 +130,7 @@ npm run start
 
 ### Customer Endpoints
 
-| METHOD | ENDPOINT | TOKEN | ROLE | BODY / PARAMS | CONTROLLER | RETURN |
+| METHOD | ENDPOINT | TOKEN | ROLE | PARAMS | CONTROLLER | RETURN |
 | :----: | :---------------------------------: | :---: | :--: | :-------------------: | :------------------: | :--------------------------: |
 | POST | /api/customers | Yes | No | customerSchema | createCustomer | Object of the customer created |
 | GET | /api/customers | Yes | No | Query in pages | getCustomers | Array of all customers |
